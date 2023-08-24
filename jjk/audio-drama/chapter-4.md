@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Vol 2 - じゅじゅさんぽ 3. 都内某カラ館
-parent: Jujutsu Kaisen (JJK)
+grand_parent: Jujutsu Kaisen (JJK)
+parent: Audio drama
 nav_order: 4
 ---
 
@@ -11,19 +12,19 @@ nav_order: 4
 
 **虎杖悠仁** アイコ歌ってよ
 
-*Note:* アイコ
+*Note:* [アイコ](https://ja.wikipedia.org/wiki/Aiko)
 
 **釘崎野薔薇** 私一曲目は陽水って決めてるから
 
-*Note:* 陽水
+*Note:* [陽水](https://ja.wikipedia.org/wiki/%E4%BA%95%E4%B8%8A%E9%99%BD%E6%B0%B4)
 
 **虎杖悠仁** じゃあ、間を取って椎名林檎
 
-*Note:* 椎名林檎
+*Note:* [椎名林檎](https://es.wikipedia.org/wiki/Ringo_Shiina)
 
 **釘崎野薔薇** なんで陽水とアイコの間がりんごなのよ
 
-*Note:* 陽水, アイコ
+*Note:* [陽水](https://ja.wikipedia.org/wiki/%E4%BA%95%E4%B8%8A%E9%99%BD%E6%B0%B4), [アイコ](https://ja.wikipedia.org/wiki/Aiko)
 
 **伏黒恵** すみません
 
@@ -101,7 +102,7 @@ nav_order: 4
 
 **伏黒恵** それより陽水とアイコの間は戸川純だろ
 
-*Note:* 陽水, アイコ
+*Note:* [陽水](https://ja.wikipedia.org/wiki/%E4%BA%95%E4%B8%8A%E9%99%BD%E6%B0%B4), [アイコ](https://ja.wikipedia.org/wiki/Aiko)
 
 **釘崎野薔薇** いきなり何の話？
 
@@ -109,7 +110,7 @@ nav_order: 4
 
 **伏黒恵** 陽水とアイコの間は戸川純だろ
 
-*Note:* 陽水, アイコ
+*Note:* [陽水](https://ja.wikipedia.org/wiki/%E4%BA%95%E4%B8%8A%E9%99%BD%E6%B0%B4), [アイコ](https://ja.wikipedia.org/wiki/Aiko)
 
 **伏黒恵** 年代的にも
 
@@ -123,7 +124,7 @@ nav_order: 4
 
 **釘崎野薔薇** バービーボーイズ
 
-*Note:* バービーボーイズ
+*Note:* [バービーボーイズ](https://ja.wikipedia.org/wiki/BARBEE_BOYS)
 
 **虎杖悠仁** バンドになっちゃってんじゃん（じゃない）
 
@@ -149,15 +150,15 @@ nav_order: 4
 
 **虎杖悠仁** じゃあ〜アイコ歌って「カブトムシ」歌って？
 
-*Note:* アイコ
+*Note:* [アイコ](https://ja.wikipedia.org/wiki/Aiko)
 
 **伏黒恵** カーディガンズでもいいぞ
 
-*Note:* カーディガンズ
+*Note:* [カーディガンズ](https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%BC%E3%83%87%E3%82%A3%E3%82%AC%E3%83%B3%E3%82%BA)
 
 **釘崎野薔薇** だから一曲目は陽水って決めてんだっつって（っと言って）んだろ
 
-*Note:* 陽水, っつって
+*Note:* [陽水](https://ja.wikipedia.org/wiki/%E4%BA%95%E4%B8%8A%E9%99%BD%E6%B0%B4), [っつって](https://hinative.com/ja/questions/1694177)
 
 **伏黒恵** はい
 
@@ -195,13 +196,13 @@ nav_order: 4
 
 **伏黒恵** どうすんだよ（どうするんですか）
 
-*Note:* どうすんだ
+*Note:* [どうすんだ](https://japanese.stackexchange.com/questions/60791/meaning-of-%E3%81%A9%E3%81%86%E3%81%99%E3%82%93%E3%81%A0%E3%82%88)
 
 **伏黒恵** ひとり一曲ずつなら歌えるぞ
 
 **釘崎野薔薇** 結局陽水一曲で終わりってわけね
 
-*Note:* 陽水
+*Note:* [陽水](https://ja.wikipedia.org/wiki/%E4%BA%95%E4%B8%8A%E9%99%BD%E6%B0%B4)
 
 **虎杖悠仁** 何歌の？
 

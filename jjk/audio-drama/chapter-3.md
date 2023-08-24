@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Vol 2 - じゅじゅさんぽ 2. 中華料理屋あるある
-parent: Jujutsu Kaisen (JJK)
+grand_parent: Jujutsu Kaisen (JJK)
+parent: Audio drama
 nav_order: 3
 ---
 
@@ -57,7 +58,7 @@ nav_order: 3
 
 **伏黒恵** 意味わかねえ絡み方っつ（という）んじゃねえ
 
-*Note:* っつ, んじゃねえ
+*Note:* [っつ](https://japanese.stackexchange.com/questions/1252/what-does-%e3%81%a3%e3%81%a4%e3%81%ae-mean), [んじゃねえ](https://maggiesensei.com/2013/02/13/how-to-use-%E3%80%9C%E3%81%98%E3%82%83%E3%81%AA%E3%81%84-janai%E3%80%80%EF%BC%86%E3%80%80%E3%80%9C%E3%82%93%E3%81%98%E3%82%83%E3%81%AA%E3%81%84-njanai/)
 
 **釘崎野薔薇** うーん。。。
 
@@ -199,13 +200,13 @@ nav_order: 3
 
 **釘崎野薔薇** それなら餃子二枚頼むわ
 
-*Note:* 二枚 = counter for food portions (now only gyōza and soba)
+*Note:* [二枚](https://jisho.org/word/%E6%9E%9A) = counter for food portions (now only gyōza and soba)
 
 **釘崎野薔薇** 百円お釣りがくるわよ
 
 **伏黒恵** いや、それなら餃子一枚と春巻きか焼売だな
 
-*Note:* 一枚 = counter for food portions (now only gyōza and soba)
+*Note:* [一枚](https://jisho.org/word/%E6%9E%9A) = counter for food portions (now only gyōza and soba)
 
 **釘崎野薔薇** 二人で春巻き三本どうやって分けんだよ
 
@@ -215,7 +216,7 @@ nav_order: 3
 
 **釘崎野薔薇** それなら餃子３枚っていうわ
 
-*Note:* ３枚 = counter for food portions (now only gyōza and soba)
+*Note:* [３枚](https://jisho.org/word/%E6%9E%9A) = counter for food portions (now only gyōza and soba)
 
 **伏黒恵** そしたら肉団子より高くなんだろ
 

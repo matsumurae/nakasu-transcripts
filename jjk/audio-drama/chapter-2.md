@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Vol 2 - じゅじゅさんぽ 1. 1年ズの親睦会
-parent: Jujutsu Kaisen (JJK)
+grand_parent: Jujutsu Kaisen (JJK)
+parent: Audio drama
 nav_order: 2
 ---
 
@@ -311,7 +312,7 @@ nav_order: 2
 
 **釘崎野薔薇** ウルフギャングとかエンパイアステーキハウスとかベンジャミンステーキハウスとかがよかった
 
-*Note:* ウルフギャング, エンパイアステーキハウス, ベンジャミンステーキハウス
+*Note:* [ウルフギャング](https://wolfgangssteakhouse.jp/menu/), [エンパイアステーキハウス](http://www.empire-steakhouse-japan.com/), [ベンジャミンステーキハウス](http://www.benjaminsteakhouse.jp/)
 
 **釘崎野薔薇** せっかく東京来たのに
 
@@ -327,7 +328,7 @@ nav_order: 2
 
 **釘崎野薔薇** ウルフギャングとかエンパイアステーキハウスとかベンジャミンステーキハウスとかがよかった！！
 
-*Note:* ウルフギャング, エンパイアステーキハウス, ベンジャミンステーキハウス
+*Note:* [ウルフギャング](https://wolfgangssteakhouse.jp/menu/), [エンパイアステーキハウス](http://www.empire-steakhouse-japan.com/), [ベンジャミンステーキハウス](http://www.benjaminsteakhouse.jp/)
 
 **五条悟** そういう店は自分で稼いだお金で行った方が楽しいよ？
 
@@ -349,7 +350,7 @@ nav_order: 2
 
 **伏黒恵** うん、この甘くソース
 
-*Note:* 甘くソース
+*Note:* [甘くソース](https://www.amazon.co.jp/%E3%82%A4%E3%82%AB%E3%83%AA-19872906-%E7%94%98%E3%81%8F%E3%81%A6%E6%97%A8%E3%81%84%E3%81%8A%E5%A5%BD%E3%81%BF%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%8F%E3%83%B3%E3%83%87%E3%82%A3-2-1kg/dp/B008GPWK04)
 
 **虎杖悠仁** 伏黒って以外と子供した？
 
@@ -397,7 +398,7 @@ nav_order: 2
 
 **虎杖悠仁** 渋！
 
-*Note:* 渋 = にがにがしいさま。「渋面」 → Mueca, desagradable
+*Note:* [渋](https://dictionary.goo.ne.jp/word/kanji/%E6%B8%8B/) = にがにがしいさま。「渋面」 → Mueca, desagradable
 
 **虎杖悠仁** お前ほんとに高一？
 
