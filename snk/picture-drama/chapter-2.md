@@ -9,7 +9,9 @@ nav_order: 2
 # Capítulo 2
 
 | **Video** | [Link](https://www.youtube.com/watch?v=XpwoDJ-gyx0) |
-| **Voces** | <span class="d-inline-block text-red-300">Yūki Kaji (Eren)</span> <br> <span class="d-inline-block text-purple-300">Yui Ishikawa (Mikasa)</span> <br> <span class="d-inline-block text-lime">Marina Inoue (Armin)</span> |
+| **Voces** | <span class="d-inline-block text-red-300">Yūki Kaji (Eren Yeager)</span> <br> <span class="d-inline-block text-purple-300">Yui Ishikawa (Mikasa Ackerman)</span> <br> <span class="d-inline-block text-lime">Marina Inoue (Armin Arlert)</span> <br> <span class="d-inline-block text-green-300">Kishō Taniyama (Jean Kirstein)</span> <br> <span class="d-inline-block text-blue-100">Tsuguo Mogami (Instructor Keith Shadis)</span> |
+
+## Día 3
 
 {: .blockquote--lime }
 
@@ -17,236 +19,231 @@ nav_order: 2
 >
 > 訓練兵団とは巨人の侵攻を食い止めるべく志願した少年少女たちが戦うすべを身につける学校のようなものである。
 
-{: .blockquote--red }
+{: .blockquote--blue }
 
-> #### Eren
+> #### Instructor Keith
 >
-> アルミン。アルミン。
+> おい、貴様！
+>
+> 貴様は何者だ？
 
 {: .blockquote--lime }
 
 > #### Armin
 >
-> エレン
-> 
-> 僕は一体
+> シガンシナ出身 アルレルトです!
 
 {: .blockquote--red }
 
 > #### Eren
 >
-> よかった
-> 
-> お前朝礼の途中でいきなり倒れたんだぜ
+> ついに　俺の訓令兵デビューの日が やってきたぜ
+>
+> ここは一つカッコよく決めて他の奴らとは違ったところを見せつけてやるぜ
 
 {: .blockquote--lime }
 
 > #### Armin
 >
-> そうっか僕
-> 
-> くそ
-> 
-> 足てまとにはならないってそう決めたのに
+> 趣味は読書です!
 
 {: .blockquote--red }
 
 > #### Eren
 >
-> アルミン
-> 
-> お前どっか体の調子でも悪いのか？
-
-{: .blockquote--lime }
-
-> #### Armin
+> おぉ！
 >
-> いや
-> 
-> 教官の話があまりにも長くてつまらなかったから、ついうとうとうと…
-
-{: .blockquote--red }
-
-> #### Eren
+> もしかして趣味とかも言ったほうがいいのか
 >
-> 寝たのかよ？
-
-{: .blockquote--lime }
-
-> #### Armin
+> まいったな
 >
-> エレン
-> 
-> 冗長で中身がない話ほど無駄なものはないと思わないか
-
-{: .blockquote--red }
-
-> #### Eren
+> 趣味とか特にねぇぞ
 >
-> おいお前
-> 
-> それ教官の前で言うなよ
+> 巨人を駆逐することですとか？
+>
+> いや、大きく出すぎかな
+
+{: .blockquote--blue }
+
+> #### Instructor Keith
+>
+> 貴様は何者だ？
 
 {: .blockquote--purple }
 
 > #### Mikasa
 >
-> 私もアルミンに賛成
+> ミカサアッカーマンです
 
-{: .blockquote--red }
+{: .blockquote--green }
 
-> #### Eren
+> #### Jean
 >
-> なんでミカサもいるんだ？
+> 見慣れない顔立ちだなぁ
+>
+> この辺の出身じゃねえのか
 
 {: .blockquote--purple }
 
 > #### Mikasa
 >
-> 心配だったから
+> 特技は肉を削ぐことです
 
-{: .blockquote--lime }
+{: .blockquote--green }
 
-> #### Armin
+> #### Jean
 >
-> ありがとう
-> 
-> 僕は大丈夫
-
-{: .blockquote--purple }
-
-> #### Mikasa
+> 肉を？肉料理が得意ってことか
 >
-> 違う
-> 
-> エレンが
+> 家庭的だなぁ
+
+{: .blockquote--blue }
+
+> #### Instructor Keith
+>
+> 4列目!後ろを向け!
+
+{: .blockquote--green }
+
+> #### Jean
+>
+> あぁ
+>
+> 綺麗だ
+
+{: .blockquote--blue }
+
+> #### Instructor Keith
+>
+> 次　貴様は何者だ
+
+{: .blockquote--green }
+
+> #### Jean
+>
+> トロストク出身!ジャン・キルシュタインです
+>
+> 趣味は黒髪ロングストレートです
+
+{: .blockquote--blue }
+
+> #### Instructor Keith
+>
+> よそ見をするな!
 
 {: .blockquote--red }
 
 > #### Eren
 >
-> うん
-> 
-> 俺は別にどこも悪くねーよ
-
-{: .blockquote--purple }
-
-> #### Mikasa
+> 次は俺の番だな
 >
-> エレンがあんなに長い話の間立っていられるか心配で
+> えっと、エレンイエガーです
+>
+> 将来は調査兵団に入って巨人を駆逐するのが夢！
+>
+> エレンイエガーです
+>
+> 将来は調査兵団に入って巨人を駆逐するのが夢！
+>
+> 待ってください！
+>
+> 俺の番は！
+
+{: .blockquote--blue }
+
+> #### Instructor Keith
+>
+> もう罵倒する台詞台詞が思いつかん
 
 {: .blockquote--red }
 
 > #### Eren
 >
-> どんだけ貧弱と思われてんだ俺は
-> 
-> あんなもの巨人の倒すための訓練と思えばなんともないぜ
-> 
-> 俺は戻るぞ
-> 
-> 俺が
-> 
-> 俺は一体
-
-{: .blockquote--lime }
-
-> #### Armin
+> そ、そんな。。。
 >
-> 気を失って倒れたんだ
+> 練習してたのに
+
+{: .blockquote--green }
+
+> #### Jean
+>
+> ふん！
 
 {: .blockquote--red }
 
 > #### Eren
 >
-> で
-> 
-> 頭が
+> お前！何笑ってんなよ！
 
-{: .blockquote--purple }
+{: .blockquote--green }
 
-> #### Mikasa
+> #### Jean
 >
-> 倒れた時どこか打ったのかも
+> 悪いな
+>
+> 俺は正直者なんだね
 
 {: .blockquote--red }
 
 > #### Eren
 >
-> ちげーよ（違う）
-> 
-> お前が殴ったんだろ
-> 
-> なんで突然
+> お前こそ、頭突き食らってたくせに!
 
-{: .blockquote--purple }
+{: .blockquote--blue }
 
-> #### Mikasa
+> #### Instructor Keith
 >
-> エレンをあんな辛い場所に戻らせたくない
-
-{: .blockquote--red }
-
-> #### Eren
+> 誰が口を開いていいと言った!
 >
-> だからってそんな止め方ないだろう
-
-{: .blockquote--purple }
-
-> #### Mikasa
->
-> エレン、泣いてるの？
-
-{: .blockquote--red }
-
-> #### Eren
->
-> 泣いてなんかねーよ
-
-{: .blockquote--lime }
-
-> #### Armin
->
-> お声で騒ぐのやめないよ
-> 
-> 病人がいるんだよ
-
-{: .blockquote--red }
-
-> #### Eren
->
-> お前はサブってるだだろが
+> お前らのような奴は真っ先に巨人の餌だ！
 
 {: .blockquote--grey }
 
 > #### Todos
 >
-> あー、また！
+> あああぁぁ！！
+
+{: .blockquote--green }
+
+> #### Jean
+>
+> 何なんだ！
+>
+> 巨人に食われちゃ待ったってのか
 
 {: .blockquote--red }
 
 > #### Eren
 >
-> 体調がばんぜんだったら戦うことができたのに
-> 
-> おいアルミン
-> 
-> 出る方法考えろよ
+> せっかく訓練兵デビューしようと楽しみにしてたのによ
+
+{: .blockquote--green }
+
+> #### Jean
+>
+> うるせぇ！
+>
+> お前が絡んでくるから逃げ遅れたじゃねえか!
+
+{: .blockquote--red }
+
+> #### Eren
+>
+> はあ?
+>
+> 人のせいに進んだよ!
 
 {: .blockquote--lime }
 
 > #### Armin
 >
-> 急に言われても考えがまとまらないよ
+> ちょっと！
+> 
+> もう止まってるんじゃないか？！
 
-{: .blockquote--purple }
+## Día 4
 
-> #### Mikasa
+{: .warning-title }
+> Ups…
 >
-> 私はエレンと一緒なるどこでもいい
-
-{: .blockquote--red }
-
-> #### Eren
->
-> いいわけないだろ
+> Esto aún está en construcción.
