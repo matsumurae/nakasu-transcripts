@@ -8,7 +8,7 @@ nav_order: 1
 
 # Capítulo 1
 
-| **Video** | [Link](https://www.youtube.com/watch?v=HI12RR2LIz0&list=PLl_GiSK_Ae_6jqUWQlxd2JfQwuqM4kkGw&index=1) |
+| **Video** | [Link](https://www.youtube.com/watch?v=HI12RR2LIz0) |
 | **Voces** | <span class="d-inline-block text-red-300">Yūki Kaji (Eren)</span> <br> <span class="d-inline-block text-purple-300">Yui Ishikawa (Mikasa)</span> <br> <span class="d-inline-block text-lime">Marina Inoue (Armin)</span> |
 
 {: .blockquote--lime }
