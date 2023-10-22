@@ -253,9 +253,13 @@ nav_order: 2
 >
 > あれ、ミカサ。髪切ったんだ
 
+{: .blockquote--purple }
+
 > #### Mikasa
 >
 > ええ
+
+{: .blockquote--green }
 
 > #### Jean
 >
@@ -265,9 +269,13 @@ nav_order: 2
 >
 > 黒髪ロングストレートです
 
+{: .blockquote--red }
+
 > #### Eren
 >
 > そっちの方がいいと思うぜ
+
+{: .blockquote--green }
 
 > #### Jean
 >
@@ -275,11 +283,15 @@ nav_order: 2
 >
 > ミカサにいい顔しやがって！
 
+{: .blockquote--blue }
+
 > #### Instructor Keith
 >
 > 今日は掃除当番の班を決めてもらう
 >
 > ３人1組男女混合で班を作れ
+
+{: .blockquote--green }
 
 > #### Jean
 >
@@ -289,6 +301,8 @@ nav_order: 2
 >
 > あ。。。
 
+{: .blockquote--red }
+
 > #### Eren
 >
 > 悪いな
@@ -297,6 +311,8 @@ nav_order: 2
 >
 > 他当たってくれ
 
+{: .blockquote--lime }
+
 > #### Armin
 >
 > あれ？
@@ -304,6 +320,8 @@ nav_order: 2
 > ジャンもしかして余っちゃったの?
 >
 > ねぇ、誰かジャンを入れてあげてよ
+
+{: .blockquote--green }
 
 > #### Jean
 >
@@ -315,11 +333,15 @@ nav_order: 2
 >
 > さっきは悪いところ見せしまった
 
+{: .blockquote--red }
+
 > #### Eren
 >
 > 今日の訓練もうまくいかなかった
 >
 > こんなんじゃ奴らを根絶やしにすることなんか
+
+{: .blockquote--lime }
 
 > #### Armin
 >
@@ -327,15 +349,21 @@ nav_order: 2
 >
 > とりあえず食べないと！
 
+{: .blockquote--green }
+
 > #### Jean
 >
 > そうだ！あいつらの前でいいとこ見せれば！
 >
 > よ、エレン！俺が立体機動のコツを教えてやろうか？
 
+{: .blockquote--red }
+
 > #### Eren
 >
 > 本当か？！た、頼む！
+
+{: .blockquote--green }
 
 > #### Jean
 >
@@ -343,17 +371,25 @@ nav_order: 2
 >
 > どう・だ？
 
+{: .blockquote--lime }
+
 > #### Armin
 >
 > それ立体機動と関係ないじゃないか
+
+{: .blockquote--red }
 
 > #### Eren
 >
 > お前、俺を揶揄いに来ただけなのか？
 
+{: .blockquote--purple }
+
 > #### Mikasa
 >
 > もういい、行こうエレン
+
+{: .blockquote--green }
 
 > #### Jean
 >
@@ -363,29 +399,43 @@ nav_order: 2
 >
 > こんなことなら巨人にても食われちまった方か
 
+{: .blockquote--grey }
+
 > #### Todos
 >
 > ああああ！！！
+
+{: .blockquote--red }
 
 > #### Eren
 >
 > ジャン！お前が変なこと言うから、巨人に食われちゃったじゃねえか
 
+{: .blockquote--green }
+
 > #### Jean
 >
 > 何だと！俺のせいだった言うのか？！
+
+{: .blockquote--red }
 
 > #### Eren
 >
 > そう聞こえなかったか？
 
+{: .blockquote--purple }
+
 > #### Mikasa
 >
 > エレン、喧嘩はやめて
 
+{: .blockquote--red }
+
 > #### Eren
 >
 > って、喧嘩なんかしてねえよ!
+
+{: .blockquote--green }
 
 > #### Jean
 >
