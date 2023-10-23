@@ -15,7 +15,7 @@ nav_order: 4
 
 {: .blockquote--lime }
 
-> #### Armin
+> #### Narrador (Armin)
 >
 > 訓練兵団とは巨人の侵攻を食い止めるべく志願した少年少女たちが戦うすべを身につける学校のようなものである。
 >
@@ -467,7 +467,7 @@ nav_order: 4
 
 {: .blockquote--lime }
 
-> #### Armin
+> #### Narrador (Armin)
 >
 > 訓練兵とはいえども遊びたい盛り少年少女たち、時には羽を伸ばし休息を取ることも必要である
 
