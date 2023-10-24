@@ -393,7 +393,7 @@ Note: [ボートしちゃって](https://eikaiwa.dmm.com/uknow/questions/15336/)
 
 > #### Eren
 >
-> ああ、ベルトルど
+> ああ、ベルトルト
 >
 > お前から話しかけてくるなんて珍しいな
 >
@@ -415,7 +415,7 @@ Note: [ボートしちゃって](https://eikaiwa.dmm.com/uknow/questions/15336/)
 
 > #### Armin
 >
-> つまりベルトルどは、もっと主張したいんだね?
+> つまりベルトルトは、もっと主張したいんだね?
 
 {: .blockquote--green }
 
@@ -433,13 +433,13 @@ Note: [ボートしちゃって](https://eikaiwa.dmm.com/uknow/questions/15336/)
 >
 > どうだい？！
 >
-> これならみんなベルトルどに釘付けのはずだよ!
+> これならみんなベルトルトに釘付けのはずだよ!
 
 {: .blockquote--red }
 
 > #### Eren
 >
-> すごいぜ！ベルトルど
+> すごいぜ！ベルトルト
 >
 > かっこいじゃねえか？！
 
